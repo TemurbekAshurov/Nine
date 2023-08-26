@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bosh {
+    padding: 40px 0;
+}
+.bosh i{
+font-size: 30px;
+}
+.slec1 img{
+ width: 100%;
+}
+.slec1{
+    padding: 20px 0;
+}
+.slec2 i{
+color: black;
+}
+.slec3 img{
+    width: 100%;
+    height: 90%;
+}
+.slec3 button {
+    background-color: black;
+    color: white;
+margin: 0 2px;
+    height: 28px;
+}
